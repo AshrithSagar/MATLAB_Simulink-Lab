@@ -1,0 +1,10 @@
+.gitignore
+.gitattributes
+LICENSE
+
+README.md
+
+*.jpg
+*.jpeg
+*.png
+*.pdf
